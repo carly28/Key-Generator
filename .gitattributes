@@ -1,0 +1,2 @@
+$ cat .gitattributes
+*.as linguist-language=ActionScript
